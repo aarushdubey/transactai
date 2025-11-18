@@ -1,0 +1,18 @@
+categories:
+  - Dining
+  - Groceries
+  - Travel
+  - Shopping
+  - Fuel
+  - Bills
+  - Entertainment
+  - Others
+
+aliases:
+  Dining: ["starbucks", "cafe", "restaurant", "swiggy", "zomato"]
+  Travel: ["uber", "ola", "rapido", "flight", "railway", "irctc"]
+  Shopping: ["amazon", "flipkart", "myntra"]
+  Fuel: ["hpcl", "bpcl", "shell", "indianoil", "petrol pump"]
+
+thresholds:
+  default_low_confidence: 0.65

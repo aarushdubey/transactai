@@ -1,0 +1,151 @@
+transaction_id,date,raw_description,normalised_description,category,amount_band,region,clean_text
+T00506,2024-05-08,SonyLiv *REF 5489,sonyliv ref 5489,Entertainment,0-200,EU,sonyliv *ref 5489
+T00823,2024-12-15,Bank Fee BANGALORE IN,bank fee bangalore in,Others,500-2000,US,bank fee bangalore in
+T00907,2024-10-08,RedBus #0421,redbus 0421,Travel,200-500,US,redbus #0421
+T00550,2024-09-15,Croma BLR IN,croma blr in,Shopping,0-200,IN,croma blr in
+T00534,2024-05-14,Annual Fee MUMBAI IN,annual fee mumbai in,Others,500-2000,IN,annual fee mumbai in
+T00975,2024-03-24,Amazon *REF 6491,amazon ref 6491,Shopping,5000+,US,amazon *ref 6491
+T00766,2024-10-28,IndiGo Airlines INTL,indigo airlines intl,Travel,2000-5000,US,indigo airlines intl
+T00798,2024-05-13,Service Charge *REF 7980,service charge ref 7980,Others,5000+,EU,service charge *ref 7980
+T00328,2024-06-06,Prime Video NEW DELHI,prime video new delhi,Entertainment,2000-5000,SG,prime video new delhi
+T00370,2024-07-24,Lifestyle NEW DELHI,lifestyle new delhi,Shopping,500-2000,IN,lifestyle new delhi
+T00286,2024-01-23,Pizza Hut,pizza hut,Dining,500-2000,US,pizza hut
+T00581,2024-03-07,Uber INTL,uber intl,Travel,5000+,US,uber intl
+T00643,2024-11-03,DMart *REF 9475,dmart ref 9475,Groceries,200-500,IN,dmart *ref 9475
+T00918,2024-10-31,IndiGo Airlines BLR IN,indigo airlines blr in,Travel,5000+,IN,indigo airlines blr in
+T00908,2024-06-29,Zara INTL,zara intl,Shopping,200-500,SG,zara intl
+T00359,2024-11-22,HP Petrol Pump,hp petrol pump,Fuel,5000+,US,hp petrol pump
+T00955,2024-04-06,Walmart /NETBANKING,walmart netbanking,Groceries,500-2000,US,walmart /netbanking
+T00014,2024-01-17,Nayara Energy INTL,nayara energy intl,Fuel,0-200,US,nayara energy intl
+T00660,2024-01-08,Airtel Postpaid NEW DELHI,airtel postpaid new delhi,Bills,200-500,EU,airtel postpaid new delhi
+T00171,2024-02-20,DMart /NETBANKING,dmart netbanking,Groceries,0-200,SG,dmart /netbanking
+T00232,2024-01-04,Big Bazaar - ONLINE,big bazaar online,Groceries,2000-5000,IN,big bazaar - online
+T00022,2024-11-24,Target Groceries,target groceries,Groceries,0-200,EU,target groceries
+T00614,2024-01-22,IndiGo Airlines *REF 4471,indigo airlines ref 4471,Travel,200-500,US,indigo airlines *ref 4471
+T00491,2024-05-01,Annual Fee #0421,annual fee 0421,Others,2000-5000,IN,annual fee #0421
+T00542,2024-06-08,Water Utility #0421,water utility 0421,Bills,2000-5000,EU,water utility #0421
+T00318,2024-11-29,Starbucks - UPI,starbucks upi,Dining,5000+,EU,starbucks - upi
+T00621,2024-11-12,Uber *REF 5512,uber ref 5512,Travel,2000-5000,US,uber *ref 5512
+T00484,2024-07-28,Water Utility *REF 4196,water utility ref 4196,Bills,2000-5000,SG,water utility *ref 4196
+T00825,2024-11-12,DMart - ONLINE,dmart online,Groceries,200-500,US,dmart - online
+T00033,2024-01-04,Gas Company NEW DELHI,gas company new delhi,Bills,200-500,US,gas company new delhi
+T00551,2024-08-10,Apple Music #0421,apple music 0421,Entertainment,5000+,IN,apple music #0421
+T00263,2024-08-12,Myntra *REF 3962,myntra ref 3962,Shopping,5000+,US,myntra *ref 3962
+T00960,2024-01-08,PVR Cinemas - ONLINE,pvr cinemas online,Entertainment,0-200,SG,pvr cinemas - online
+T00545,2024-03-18,Toll Plaza BLR IN,toll plaza blr in,Others,200-500,US,toll plaza blr in
+T00909,2024-11-20,Toll Plaza INTL,toll plaza intl,Others,500-2000,SG,toll plaza intl
+T00824,2024-05-03,BP Fuel Station /NETBANKING,bp fuel station netbanking,Fuel,200-500,US,bp fuel station /netbanking
+T00749,2024-11-20,HP Petrol Pump /NETBANKING,hp petrol pump netbanking,Fuel,2000-5000,EU,hp petrol pump /netbanking
+T00543,2024-07-07,Service Charge NEW DELHI,service charge new delhi,Others,2000-5000,IN,service charge new delhi
+T00319,2024-09-11,Essar Fuel MUMBAI IN,essar fuel mumbai in,Fuel,5000+,IN,essar fuel mumbai in
+T00584,2024-03-10,Flipkart INTL,flipkart intl,Shopping,500-2000,EU,flipkart intl
+T00996,2024-11-23,Maintenance Charge NEW DELHI,maintenance charge new delhi,Others,200-500,IN,maintenance charge new delhi
+T00939,2024-12-22,Electricity Board *REF 1984,electricity board ref 1984,Bills,500-2000,US,electricity board *ref 1984
+T00561,2024-02-18,H&M NEW DELHI,h&m new delhi,Shopping,5000+,US,h&m new delhi
+T00102,2024-06-21,Croma - ONLINE,croma online,Shopping,2000-5000,EU,croma - online
+T00683,2024-06-17,Starbucks,starbucks,Dining,200-500,US,starbucks
+T00912,2024-06-03,Electricity Board BANGALORE IN,electricity board bangalore in,Bills,0-200,US,electricity board bangalore in
+T00105,2024-01-11,Starbucks,starbucks,Dining,200-500,US,starbucks
+T00139,2024-12-27,IRCTC,irctc,Travel,200-500,EU,irctc
+T00815,2024-10-13,Electricity Board *REF 7670,electricity board ref 7670,Bills,5000+,IN,electricity board *ref 7670
+T00944,2024-01-21,Essar Fuel BLR IN,essar fuel blr in,Fuel,5000+,IN,essar fuel blr in
+T00279,2024-11-10,Nayara Energy *REF 5772,nayara energy ref 5772,Fuel,2000-5000,IN,nayara energy *ref 5772
+T00759,2024-01-03,Hotstar INTL,hotstar intl,Entertainment,2000-5000,US,hotstar intl
+T00966,2024-05-29,Zara - UPI,zara upi,Shopping,0-200,US,zara - upi
+T00860,2024-02-15,Reliance Fresh BLR IN,reliance fresh blr in,Groceries,5000+,US,reliance fresh blr in
+T00548,2024-01-31,Essar Fuel - ONLINE,essar fuel online,Fuel,2000-5000,SG,essar fuel - online
+T00921,2024-11-20,KFC /NETBANKING,kfc netbanking,Dining,5000+,IN,kfc /netbanking
+T00559,2024-07-21,Bank Fee #0421,bank fee 0421,Others,200-500,EU,bank fee #0421
+T00361,2024-07-27,Domino's Pizza,domino's pizza,Dining,5000+,US,domino's pizza
+T00675,2024-05-14,McDonald's BLR IN,mcdonald's blr in,Dining,200-500,US,mcdonald's blr in
+T00479,2024-02-29,Hotstar #0421,hotstar 0421,Entertainment,200-500,EU,hotstar #0421
+T00706,2024-06-22,Burger King - ONLINE,burger king online,Dining,2000-5000,US,burger king - online
+T00498,2024-02-08,More Supermarket MUMBAI IN,more supermarket mumbai in,Groceries,2000-5000,SG,more supermarket mumbai in
+T00157,2024-03-01,Flipkart - ONLINE,flipkart online,Shopping,0-200,SG,flipkart - online
+T00001,2024-04-24,Starbucks /NETBANKING,starbucks netbanking,Dining,500-2000,US,starbucks /netbanking
+T00897,2024-01-17,McDonald's,mcdonald's,Dining,200-500,US,mcdonald's
+T00179,2024-09-04,Walmart - POS TXN,walmart pos txn,Groceries,200-500,SG,walmart - pos txn
+T00378,2024-09-26,MakeMyTrip - ONLINE,makemytrip online,Travel,5000+,IN,makemytrip - online
+T00950,2024-08-06,BP Fuel Station - ONLINE,bp fuel station online,Fuel,5000+,US,bp fuel station - online
+T00437,2024-12-14,Toll Plaza MUMBAI IN,toll plaza mumbai in,Others,2000-5000,US,toll plaza mumbai in
+T00674,2024-05-24,Apple Music #0421,apple music 0421,Entertainment,5000+,IN,apple music #0421
+T00464,2024-12-13,BP Fuel Station INTL,bp fuel station intl,Fuel,2000-5000,SG,bp fuel station intl
+T00594,2024-06-28,RedBus *REF 7783,redbus ref 7783,Travel,2000-5000,SG,redbus *ref 7783
+T00357,2024-10-02,More Supermarket BLR IN,more supermarket blr in,Groceries,200-500,US,more supermarket blr in
+T00526,2024-11-23,Lifestyle /NETBANKING,lifestyle netbanking,Shopping,2000-5000,IN,lifestyle /netbanking
+T00083,2024-11-08,Netflix,netflix,Entertainment,200-500,SG,netflix
+T00261,2024-09-16,HP Petrol Pump *REF 2264,hp petrol pump ref 2264,Fuel,500-2000,IN,hp petrol pump *ref 2264
+T00051,2024-06-10,Myntra - UPI,myntra upi,Shopping,500-2000,SG,myntra - upi
+T00829,2024-01-28,Walmart - ONLINE,walmart online,Groceries,5000+,US,walmart - online
+T00189,2024-02-16,Ola Cabs *REF 4696,ola cabs ref 4696,Travel,2000-5000,EU,ola cabs *ref 4696
+T00680,2024-05-15,More Supermarket - ONLINE,more supermarket online,Groceries,2000-5000,EU,more supermarket - online
+T00995,2024-01-24,KFC BANGALORE IN,kfc bangalore in,Dining,2000-5000,SG,kfc bangalore in
+T00837,2024-10-11,PVR Cinemas #0421,pvr cinemas 0421,Entertainment,500-2000,US,pvr cinemas #0421
+T00467,2024-06-27,Parking - ONLINE,parking online,Others,5000+,SG,parking - online
+T00294,2024-03-26,Reliance Fresh BLR IN,reliance fresh blr in,Groceries,5000+,SG,reliance fresh blr in
+T00137,2024-05-02,IndianOil - UPI,indianoil upi,Fuel,0-200,US,indianoil - upi
+T00160,2024-05-21,Essar Fuel NEW DELHI,essar fuel new delhi,Fuel,200-500,IN,essar fuel new delhi
+T00915,2024-05-15,Water Utility INTL,water utility intl,Bills,200-500,US,water utility intl
+T00870,2024-01-26,MakeMyTrip INTL,makemytrip intl,Travel,0-200,US,makemytrip intl
+T00099,2024-08-27,Late Fee - UPI,late fee upi,Others,2000-5000,US,late fee - upi
+T00037,2024-08-04,McDonald's - UPI,mcdonald's upi,Dining,2000-5000,EU,mcdonald's - upi
+T00886,2024-03-05,Airtel Postpaid INTL,airtel postpaid intl,Bills,200-500,IN,airtel postpaid intl
+T00127,2024-07-03,Big Bazaar - ONLINE,big bazaar online,Groceries,500-2000,US,big bazaar - online
+T00011,2024-07-08,Walmart - UPI,walmart upi,Groceries,500-2000,US,walmart - upi
+T00738,2024-02-19,More Supermarket - ONLINE,more supermarket online,Groceries,500-2000,IN,more supermarket - online
+T00924,2024-04-23,H&M BANGALORE IN,h&m bangalore in,Shopping,5000+,IN,h&m bangalore in
+T00792,2024-12-23,Zara MUMBAI IN,zara mumbai in,Shopping,500-2000,IN,zara mumbai in
+T00106,2024-08-26,PVR Cinemas *REF 8758,pvr cinemas ref 8758,Entertainment,0-200,US,pvr cinemas *ref 8758
+T00553,2024-02-08,Maintenance Charge BLR IN,maintenance charge blr in,Others,500-2000,US,maintenance charge blr in
+T00772,2024-01-21,Parking BLR IN,parking blr in,Others,2000-5000,IN,parking blr in
+T00662,2024-12-21,Mobile Recharge /NETBANKING,mobile recharge netbanking,Bills,200-500,US,mobile recharge /netbanking
+T00201,2024-01-26,Ola Cabs - UPI,ola cabs upi,Travel,200-500,IN,ola cabs - upi
+T00293,2024-06-16,SonyLiv INTL,sonyliv intl,Entertainment,0-200,IN,sonyliv intl
+T00575,2024-02-21,Annual Fee BANGALORE IN,annual fee bangalore in,Others,200-500,US,annual fee bangalore in
+T00209,2024-09-02,Walmart - UPI,walmart upi,Groceries,0-200,IN,walmart - upi
+T00778,2024-12-04,BookMyShow *REF 6934,bookmyshow ref 6934,Entertainment,5000+,IN,bookmyshow *ref 6934
+T00313,2024-06-04,Zara,zara,Shopping,0-200,US,zara
+T00406,2024-04-07,IndianOil - POS TXN,indianoil pos txn,Fuel,0-200,US,indianoil - pos txn
+T00068,2024-04-26,HP Petrol Pump BLR IN,hp petrol pump blr in,Fuel,500-2000,EU,hp petrol pump blr in
+T00448,2024-05-08,Best Buy BLR IN,best buy blr in,Shopping,0-200,EU,best buy blr in
+T00345,2024-03-16,IndiGo Airlines NEW DELHI,indigo airlines new delhi,Travel,5000+,SG,indigo airlines new delhi
+T00285,2024-03-10,Prime Video /NETBANKING,prime video netbanking,Entertainment,2000-5000,US,prime video /netbanking
+T00761,2024-07-02,Hotstar BLR IN,hotstar blr in,Entertainment,2000-5000,SG,hotstar blr in
+T00360,2024-08-29,Shell Petrol #0421,shell petrol 0421,Fuel,2000-5000,EU,shell petrol #0421
+T00741,2024-08-23,Flipkart /NETBANKING,flipkart netbanking,Shopping,200-500,IN,flipkart /netbanking
+T00884,2024-03-21,IndiGo Airlines INTL,indigo airlines intl,Travel,0-200,US,indigo airlines intl
+T00935,2024-06-05,SonyLiv,sonyliv,Entertainment,500-2000,IN,sonyliv
+T00002,2024-10-29,Spotify - UPI,spotify upi,Entertainment,5000+,IN,spotify - upi
+T00580,2024-01-11,Airtel Postpaid,airtel postpaid,Bills,200-500,US,airtel postpaid
+T00039,2024-04-07,Croma #0421,croma 0421,Shopping,200-500,US,croma #0421
+T00717,2024-01-13,Nature's Basket MUMBAI IN,nature's basket mumbai in,Groceries,0-200,IN,nature's basket mumbai in
+T00951,2024-04-15,Target Groceries INTL,target groceries intl,Groceries,2000-5000,US,target groceries intl
+T00269,2024-05-19,McDonald's - POS TXN,mcdonald's pos txn,Dining,0-200,US,mcdonald's - pos txn
+T00656,2024-09-06,Annual Fee /NETBANKING,annual fee netbanking,Others,200-500,IN,annual fee /netbanking
+T00089,2024-08-18,Zara BLR IN,zara blr in,Shopping,200-500,SG,zara blr in
+T00894,2024-06-13,Gas Company INTL,gas company intl,Bills,5000+,US,gas company intl
+T00168,2024-06-22,Myntra #0421,myntra 0421,Shopping,2000-5000,EU,myntra #0421
+T00641,2024-02-02,Reliance Fresh - UPI,reliance fresh upi,Groceries,0-200,SG,reliance fresh - upi
+T00376,2024-04-22,Subway INTL,subway intl,Dining,5000+,US,subway intl
+T00393,2024-01-23,Water Utility BANGALORE IN,water utility bangalore in,Bills,0-200,US,water utility bangalore in
+T00185,2024-03-08,Electricity Board BLR IN,electricity board blr in,Bills,0-200,EU,electricity board blr in
+T00901,2024-10-12,Ola Cabs BLR IN,ola cabs blr in,Travel,0-200,EU,ola cabs blr in
+T00024,2024-09-16,Mobile Recharge /NETBANKING,mobile recharge netbanking,Bills,500-2000,US,mobile recharge /netbanking
+T00149,2024-03-23,Parking INTL,parking intl,Others,500-2000,IN,parking intl
+T00689,2024-08-13,Prime Video BLR IN,prime video blr in,Entertainment,0-200,SG,prime video blr in
+T00428,2024-09-27,RedBus - UPI,redbus upi,Travel,500-2000,IN,redbus - upi
+T00633,2024-06-25,IndiGo Airlines BLR IN,indigo airlines blr in,Travel,5000+,EU,indigo airlines blr in
+T00275,2024-03-17,Airtel Postpaid,airtel postpaid,Bills,500-2000,US,airtel postpaid
+T00522,2024-07-17,Starbucks INTL,starbucks intl,Dining,500-2000,US,starbucks intl
+T00206,2024-08-03,Service Charge *REF 5347,service charge ref 5347,Others,0-200,US,service charge *ref 5347
+T00764,2024-10-24,McDonald's,mcdonald's,Dining,5000+,IN,mcdonald's
+T00234,2024-03-30,Service Charge,service charge,Others,2000-5000,SG,service charge
+T00892,2024-08-20,Prime Video - POS TXN,prime video pos txn,Entertainment,500-2000,EU,prime video - pos txn
+T00342,2024-12-10,Walmart,walmart,Groceries,500-2000,EU,walmart
+T00008,2024-11-17,Ola Cabs MUMBAI IN,ola cabs mumbai in,Travel,0-200,EU,ola cabs mumbai in
+T00341,2024-12-28,Toll Plaza NEW DELHI,toll plaza new delhi,Others,5000+,SG,toll plaza new delhi
+T00176,2024-05-10,PVR Cinemas BLR IN,pvr cinemas blr in,Entertainment,500-2000,SG,pvr cinemas blr in
+T00337,2024-01-24,Essar Fuel NEW DELHI,essar fuel new delhi,Fuel,2000-5000,IN,essar fuel new delhi
+T00626,2024-09-05,KFC BLR IN,kfc blr in,Dining,200-500,SG,kfc blr in
+T00358,2024-02-25,Target Groceries /NETBANKING,target groceries netbanking,Groceries,500-2000,US,target groceries /netbanking
+T00415,2024-10-06,Rapido *REF 6770,rapido ref 6770,Travel,200-500,US,rapido *ref 6770
